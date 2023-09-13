@@ -1,7 +1,8 @@
-# TODAY I LEARNED
+# TODAY I LEARNED (TIL)
 
 매일 1%씩 성장하기
 <div>
+  
   ### 🚩  나의 TIL 규칙
 
   - 분량과 형식 제한하지 않기.
@@ -26,7 +27,7 @@
 
 
 
- #### [Spring]
+ #### [SpringBoot]
  * [서버와 클라이언트](https://github.com/Joo-Veloper/TIL/blob/main/Spring/%EC%84%9C%EB%B2%84%EC%99%80%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8.md)
  * [데이터베이스](https://github.com/Joo-Veloper/TIL/blob/main/Spring/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 
