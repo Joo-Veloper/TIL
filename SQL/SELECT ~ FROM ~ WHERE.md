@@ -133,7 +133,14 @@ SELECT ~ FROM ~ WHERE
         
 - LIKE</br>
   QUIZ </br>
+문자열 일부 글자 검색 할때 LIKE 사용
+우로 시작하는 이름 검색
 
-        SELECT * FROM member WHERE mem
+        SELECT * FROM member WHERE mem_name Like '우%';
+
+한 글자와 매치 하기 위해서 _(언더바 사용)
+__핑크인 회원 검색
+
+        SELECT * FROM meber WHER mem_name LIKE '__핑크';
 
 </div>
