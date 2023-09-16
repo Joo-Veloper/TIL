@@ -57,6 +57,7 @@
 #### [SQL]
 * [SELECT ~ FROM ~ WHERE](https://github.com/Joo-Veloper/TIL/blob/main/SQL/SELECT%20~%20FROM%20~%20WHERE.md)
 * [자세한 SELECT](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EC%9E%90%EC%84%B8%ED%95%9C%20SELECT.md)
+* [데이터 변경](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%EA%B2%BD%20.md)
 
 
  #### [알고리즘 - 이론]
