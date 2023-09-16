@@ -2,10 +2,7 @@
 
 ## 계산기
   
-<img src="https://github.com/Joo-Veloper/JAVA/assets/134623719/55f9f642-45c9-4127-8666-680db377524a" heigth=500 height=500></br>
-<img src="https://github.com/Joo-Veloper/JAVA/assets/134623719/2c0d0987-e3f0-4443-b619-845acc365d21"></br>
-<img src="https://github.com/Joo-Veloper/JAVA/assets/134623719/2865e495-93b4-4c20-926f-5d287eb98a6b"></br>
-
+<img src=https://github.com/Joo-Veloper/TIL/assets/134623719/30a00877-d686-4526-b937-cdb33cbe2f7a width=400 height=400></br>
 
 #### 1. 클래스 및 필드 선언:
 
