@@ -56,6 +56,7 @@
 
 #### [SQL]
 * [SELECT ~ FROM ~ WHERE](https://github.com/Joo-Veloper/TIL/blob/main/SQL/SELECT%20~%20FROM%20~%20WHERE.md)
+* [자세한 SELECT](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EC%9E%90%EC%84%B8%ED%95%9C%20SELECT.md)
 
 
  #### [알고리즘 - 이론]
