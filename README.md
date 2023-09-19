@@ -60,6 +60,7 @@
 * [데이터 변경](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%EA%B2%BD%20.md)
 * [데이터 형식](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EC%8B%9D.md)
 * [JOIN](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Join.md)
+* [if](https://github.com/Joo-Veloper/TIL/blob/main/SQL/IF.md)
 
 
  #### [알고리즘 - 이론]
