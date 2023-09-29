@@ -64,7 +64,7 @@
 * [if](https://github.com/Joo-Veloper/TIL/blob/main/SQL/IF.md)
 * [make table](https://github.com/Joo-Veloper/TIL/blob/main/SQL/make%20Table.md)
 * [제약조건](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4.md)
-* [VEIW](https://github.com/Joo-Veloper/TIL/blob/main/SQL/View.md)
+* [View](https://github.com/Joo-Veloper/TIL/blob/main/SQL/View.md)
 
 
  #### [알고리즘 - 이론]
