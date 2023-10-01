@@ -67,6 +67,7 @@
 * [View](https://github.com/Joo-Veloper/TIL/blob/main/SQL/View.md)
 * [Index](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index.md)
 * [index 내부작동](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index%20%20%EB%82%B4%EB%B6%80%EC%9E%91%EB%8F%99.md)
+* [Index 사용](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index%20%EC%82%AC%EC%9A%A9.md)
 
 
  #### [알고리즘 - 이론]
