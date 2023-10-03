@@ -68,6 +68,7 @@
 * [Index](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index.md)
 * [index 내부작동](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index%20%20%EB%82%B4%EB%B6%80%EC%9E%91%EB%8F%99.md)
 * [Index 사용](https://github.com/Joo-Veloper/TIL/blob/main/SQL/Index%20%EC%82%AC%EC%9A%A9.md)
+* [스토어드 프로시저](https://github.com/Joo-Veloper/TIL/blob/main/SQL/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
 
 
  #### [알고리즘 - 이론]
